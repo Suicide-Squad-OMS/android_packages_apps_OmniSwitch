@@ -17,7 +17,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="package_stop_task_title">Stop</string>
+  <string name="package_remove_task_title">Stop</string>
   <string name="package_inspect_item_title">Oplysninger om appen</string>
   <string name="start_on_boot_title">Kør ved opstart</string>
   <string name="start_on_boot_summary">Kør og aktivér ved enhedsopstart</string>

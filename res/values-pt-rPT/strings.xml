@@ -17,7 +17,7 @@
   along with this program.  If not, see <http://www.gnu.org/licenses/>.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="package_stop_task_title">Parar</string>
+  <string name="package_remove_task_title">Parar</string>
   <string name="package_inspect_item_title">Informações da aplicação</string>
   <string name="start_on_boot_title">Executar no arranque</string>
   <string name="start_on_boot_summary">Iniciar e ativar no arranque do dispositivo</string>
