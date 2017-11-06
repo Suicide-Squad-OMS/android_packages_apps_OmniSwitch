@@ -179,4 +179,5 @@
   <string name="package_unlock_app_title">Разблокировать приложение</string>
   <string name="locked_apps_sort_summary">Заблокированные приложения будут отображаться первыми в списке</string>
   <string name="locked_apps_sort_title">Сортировка заблокированных приложений</string>
+  <string name="drag_handle_dynamic_color_title">Использовать цвет акцента</string>
 </resources>
